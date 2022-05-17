@@ -1,0 +1,62 @@
+{
+  "n_platforms":
+  {
+    "value": 2
+  },
+  "n_sellers":
+  {
+    "value": [20,100]
+  },
+  "n_buyers":
+  {
+    "value": 10.0
+  },
+  "a_h":
+  {
+    "value": 1.0
+  },
+  "a_d":
+  {
+    "value": 0.9
+  },
+  "b_h":
+  {
+    "value": 0.9
+  },
+  "b_d":
+  {
+    "value": 1.0
+  },
+  "sigma":
+  {
+    "value": 1.0
+  },
+  "seller_mu":
+  {
+    "value": 0.01
+  },
+  "I":
+  {
+    "value": 1.0
+  },
+  "C":
+  {
+    "value": 0.05
+  },
+  "c":
+  {
+    "value": 0.025
+  },
+  "n_generations":
+  {
+    "value": 10
+  },
+  "n_trials":
+  {
+    "value": 1
+  },
+  "output":
+  {
+    "value": "output/test.csv"
+  }
+}
